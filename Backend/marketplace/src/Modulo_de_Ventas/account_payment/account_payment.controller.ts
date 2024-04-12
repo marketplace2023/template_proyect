@@ -1,4 +1,12 @@
-import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/common';
+import {
+  Controller,
+  Get,
+  Post,
+  Body,
+  Patch,
+  Param,
+  Delete,
+} from '@nestjs/common';
 import { AccountPaymentService } from './account_payment.service';
 import { CreateAccountPaymentDto } from './dto/create-account_payment.dto';
 import { UpdateAccountPaymentDto } from './dto/update-account_payment.dto';
@@ -23,7 +31,10 @@ export class AccountPaymentController {
   }
 
   @Patch(':id')
-  update(@Param('id') id: string, @Body() updateAccountPaymentDto: UpdateAccountPaymentDto) {
+  update(
+    @Param('id') id: string,
+    @Body() updateAccountPaymentDto: UpdateAccountPaymentDto,
+  ) {
     return this.accountPaymentService.update(+id, updateAccountPaymentDto);
   }
 
@@ -32,3 +43,6 @@ export class AccountPaymentController {
     return this.accountPaymentService.remove(+id);
   }
 }
+
+//analisis-ingresos-tipo-pago                     # (account.payment)
+//# Realiza un análisis de los ingresos según el tipo de pago utilizado en las órdenes de venta.

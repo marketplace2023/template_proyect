@@ -48,3 +48,21 @@ export class SaleOrderController {
 
 //gestion-estado-ordenes                          # (sale.order)
 //# Administra el estado de las órdenes de venta, como pendientes, confirmadas, entregadas, etc.
+
+//informe-ventas-periodo-tiempo                   # (sale.order)
+//# Genera un informe de las ventas realizadas dentro de un período de tiempo específico.
+
+//resumen-ordenes-pendientes-pago                 # (sale.order)
+//# Resume las órdenes de venta pendientes de pago en el sistema.
+
+//informe-devoluciones-reembolsos                  # (sale.order, stock.picking)
+//# Proporciona un informe de las devoluciones y reembolsos realizados en el sistema, incluyendo detalles de las órdenes de venta y los movimientos de stock asociados.
+
+//historial-compras-usuarios-registrados          # (sale.order)
+//# Proporciona el historial de compras para los usuarios registrados en el sistema.
+
+//informe-transacciones-completadas              # (sale.order)
+//# Genera un informe de las transacciones de compra completadas en el sistema.
+
+//analisis-patrones-compra-cliente               # (sale.order, res.users)
+//# Realiza un análisis de los patrones de compra de los clientes, utilizando datos de órdenes de venta y usuarios registrados.

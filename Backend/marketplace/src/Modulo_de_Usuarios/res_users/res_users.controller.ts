@@ -44,3 +44,6 @@ export class ResUsersController {
 //gestion-usuarios                   # (res_users)
 
 //res_users: Representa a los usuarios del sistema y contiene información básica de los usuarios como nombre, contraseña, dirección de correo electrónico, etc.
+
+//analisis-patrones-compra-cliente               # (sale.order, res.users)
+//# Realiza un análisis de los patrones de compra de los clientes, utilizando datos de órdenes de venta y usuarios registrados.

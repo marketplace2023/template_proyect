@@ -50,3 +50,6 @@ export class ProductCategoryController {
 
 //analisis-ventas-categoria                                                             # (product.category)
 //# Ofrece análisis de ventas por categoría de productos, permitiendo entender las tendencias de compra de los clientes.
+
+//creacion-edicion-eliminacion-categorias-productos    # (product.category)
+//# Permite la creación, edición y eliminación de categorías de productos en el sistema.

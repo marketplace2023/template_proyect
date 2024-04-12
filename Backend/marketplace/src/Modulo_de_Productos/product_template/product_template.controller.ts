@@ -51,3 +51,12 @@ export class ProductTemplateController {
 
 //informe - precios - productos; # (product.template, product.product)
 //# Genera un informe de precios de productos, mostrando los precios asociados a las plantillas y variantes de productos.
+
+// busqueda-seleccion-productos-comprar           # (product.template)
+//# Permite a los usuarios buscar y seleccionar productos para comprar en el sistema.
+
+//asignacion-productos-categorias                      # (product.template)
+//# Permite asignar productos a categorías existentes en el sistema.
+
+//visualizacion-productos-categoria                    # (product.template)
+//# Facilita la visualización de productos dentro de una categoría específica.

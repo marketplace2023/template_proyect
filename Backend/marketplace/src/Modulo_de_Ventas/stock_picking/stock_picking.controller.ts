@@ -1,4 +1,12 @@
-import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/common';
+import {
+  Controller,
+  Get,
+  Post,
+  Body,
+  Patch,
+  Param,
+  Delete,
+} from '@nestjs/common';
 import { StockPickingService } from './stock_picking.service';
 import { CreateStockPickingDto } from './dto/create-stock_picking.dto';
 import { UpdateStockPickingDto } from './dto/update-stock_picking.dto';
@@ -23,7 +31,10 @@ export class StockPickingController {
   }
 
   @Patch(':id')
-  update(@Param('id') id: string, @Body() updateStockPickingDto: UpdateStockPickingDto) {
+  update(
+    @Param('id') id: string,
+    @Body() updateStockPickingDto: UpdateStockPickingDto,
+  ) {
     return this.stockPickingService.update(+id, updateStockPickingDto);
   }
 
@@ -32,3 +43,6 @@ export class StockPickingController {
     return this.stockPickingService.remove(+id);
   }
 }
+
+//informe-devoluciones-reembolsos                  # (sale.order, stock.picking)
+//# Proporciona un informe de las devoluciones y reembolsos realizados en el sistema, incluyendo detalles de las órdenes de venta y los movimientos de stock asociados.

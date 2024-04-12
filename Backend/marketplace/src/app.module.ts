@@ -22,6 +22,8 @@ import { AccountPaymentModule } from './Modulo_de_Ventas/account_payment/account
 import { DeliveryCarrierModule } from './Modulo_de_Ventas/delivery_carrier/delivery_carrier.module';
 import { SaleOrderModule } from './Modulo_de_Ventas/sale_order/sale_order.module';
 import { StockPickingModule } from './Modulo_de_Ventas/stock_picking/stock_picking.module';
+import { PaymentAcquirerModule } from './Modulo_de_Compras/payment_acquirer/payment_acquirer.module';
+import { SaleOrderLineModule } from './Modulo_de_Compras/sale-order-line/sale-order-line.module';
 @Module({
   imports: [
     ResUsersModule,
@@ -45,6 +47,8 @@ import { StockPickingModule } from './Modulo_de_Ventas/stock_picking/stock_picki
     DeliveryCarrierModule,
     SaleOrderModule,
     StockPickingModule,
+    PaymentAcquirerModule,
+    SaleOrderLineModule,
   ],
   controllers: [AppController],
   providers: [AppService],
