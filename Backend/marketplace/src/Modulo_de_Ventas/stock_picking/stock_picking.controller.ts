@@ -46,3 +46,6 @@ export class StockPickingController {
 
 //informe-devoluciones-reembolsos                  # (sale.order, stock.picking)
 //# Proporciona un informe de las devoluciones y reembolsos realizados en el sistema, incluyendo detalles de las órdenes de venta y los movimientos de stock asociados.
+
+//operaciones-envio                                                                   # (stock.picking)
+//# Maneja las operaciones de envío, incluyendo detalles de productos y estados.

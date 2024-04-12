@@ -47,3 +47,6 @@ export class DeliveryCarrierController {
 }
 //configuracion-opciones-envio                    # (delivery.carrier)
 //# Configura las opciones de envío disponibles para las órdenes de venta.
+
+//transportistas                                                                    # (delivery.carrier)
+//# Configuración de transportistas y servicios de mensajería.

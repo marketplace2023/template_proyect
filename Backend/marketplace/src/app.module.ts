@@ -27,6 +27,16 @@ import { SaleOrderLineModule } from './Modulo_de_Compras/sale-order-line/sale-or
 import { StockQuantModule } from './Modulo_de_Categorias/stock_quant/stock_quant.module';
 import { RatingMixinModule } from './Modulo_de_Valoraciones/rating_mixin/rating_mixin.module';
 import { RatingRatingModule } from './Modulo_de_Valoraciones/rating_rating/rating_rating.module';
+import { DeliveryCarrierServiceModule } from './Modulo_de_Envios/delivery_carrier_service/delivery_carrier_service.module';
+import { DeliveryGridModule } from './Modulo_de_Envios/delivery_grid/delivery_grid.module';
+import { StockLocationRouteModule } from './Modulo_de_Envios/stock_location_route/stock_location_route.module';
+import { StockMoveModule } from './Modulo_de_Envios/stock_move/stock_move.module';
+import { StockMoveLineModule } from './Modulo_de_Envios/stock_move_line/stock_move_line.module';
+import { StockPackOperationModule } from './Modulo_de_Envios/stock_pack_operation/stock_pack_operation.module';
+import { StockPickingBatchModule } from './Modulo_de_Envios/stock_picking_batch/stock_picking_batch.module';
+import { StockPickingPackageModule } from './Modulo_de_Envios/stock_picking_package/stock_picking_package.module';
+import { StockProductionLotModule } from './Modulo_de_Envios/stock_production_lot/stock_production_lot.module';
+import { StockQuantPackageModule } from './Modulo_de_Envios/stock_quant_package/stock_quant_package.module';
 @Module({
   imports: [
     ResUsersModule,
@@ -55,6 +65,16 @@ import { RatingRatingModule } from './Modulo_de_Valoraciones/rating_rating/ratin
     StockQuantModule,
     RatingMixinModule,
     RatingRatingModule,
+    DeliveryCarrierServiceModule,
+    DeliveryGridModule,
+    StockLocationRouteModule,
+    StockMoveModule,
+    StockMoveLineModule,
+    StockPackOperationModule,
+    StockPickingBatchModule,
+    StockPickingPackageModule,
+    StockProductionLotModule,
+    StockQuantPackageModule,
   ],
   controllers: [AppController],
   providers: [AppService],
