@@ -1,4 +1,12 @@
-import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/common';
+import {
+  Controller,
+  Get,
+  Post,
+  Body,
+  Patch,
+  Param,
+  Delete,
+} from '@nestjs/common';
 import { IrModelAccesService } from './ir_model_acces.service';
 import { CreateIrModelAcceDto } from './dto/create-ir_model_acce.dto';
 import { UpdateIrModelAcceDto } from './dto/update-ir_model_acce.dto';
@@ -23,7 +31,10 @@ export class IrModelAccesController {
   }
 
   @Patch(':id')
-  update(@Param('id') id: string, @Body() updateIrModelAcceDto: UpdateIrModelAcceDto) {
+  update(
+    @Param('id') id: string,
+    @Body() updateIrModelAcceDto: UpdateIrModelAcceDto,
+  ) {
     return this.irModelAccesService.update(+id, updateIrModelAcceDto);
   }
 
@@ -32,3 +43,5 @@ export class IrModelAccesController {
     return this.irModelAccesService.remove(+id);
   }
 }
+//configuracion-permisos            # (ir.model.access)
+//ir.model.access: Define los permisos de acceso a otros modelos en la base de datos y se utiliza para controlar quién puede acceder y qué puede hacer en cada modelo, similar a la gestión de permisos en beneficiosi.

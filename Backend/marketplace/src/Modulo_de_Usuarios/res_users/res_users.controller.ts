@@ -1,4 +1,12 @@
-import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/common';
+import {
+  Controller,
+  Get,
+  Post,
+  Body,
+  Patch,
+  Param,
+  Delete,
+} from '@nestjs/common';
 import { ResUsersService } from './res_users.service';
 import { CreateResUserDto } from './dto/create-res_user.dto';
 import { UpdateResUserDto } from './dto/update-res_user.dto';
@@ -32,3 +40,7 @@ export class ResUsersController {
     return this.resUsersService.remove(+id);
   }
 }
+
+//gestion-usuarios                   # (res_users)
+
+//res_users: Representa a los usuarios del sistema y contiene información básica de los usuarios como nombre, contraseña, dirección de correo electrónico, etc.

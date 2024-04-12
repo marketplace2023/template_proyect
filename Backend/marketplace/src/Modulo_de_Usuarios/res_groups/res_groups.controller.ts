@@ -1,4 +1,12 @@
-import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/common';
+import {
+  Controller,
+  Get,
+  Post,
+  Body,
+  Patch,
+  Param,
+  Delete,
+} from '@nestjs/common';
 import { ResGroupsService } from './res_groups.service';
 import { CreateResGroupDto } from './dto/create-res_group.dto';
 import { UpdateResGroupDto } from './dto/update-res_group.dto';
@@ -23,7 +31,10 @@ export class ResGroupsController {
   }
 
   @Patch(':id')
-  update(@Param('id') id: string, @Body() updateResGroupDto: UpdateResGroupDto) {
+  update(
+    @Param('id') id: string,
+    @Body() updateResGroupDto: UpdateResGroupDto,
+  ) {
     return this.resGroupsService.update(+id, updateResGroupDto);
   }
 
@@ -32,3 +43,7 @@ export class ResGroupsController {
     return this.resGroupsService.remove(+id);
   }
 }
+
+//gestion-grupos-usuarios                    # (res_groups)
+
+//res_groups: Representa los grupos de usuarios y se utiliza para asignar permisos y roles a los usuarios.
