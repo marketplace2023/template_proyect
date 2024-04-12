@@ -60,3 +60,27 @@ export class ProductTemplateController {
 
 //visualizacion-productos-categoria                    # (product.template)
 //# Facilita la visualización de productos dentro de una categoría específica.
+
+//informe-ventas-categoria-productos                   # (sale.order.line, product.template, product.category)
+//# Genera un informe de las ventas realizadas por categoría de productos en el sistema.
+
+//analisis-tendencias-compra-categoria                 # (sale.order.line, product.template, product.category)
+//# Realiza un análisis de las tendencias de compra por categoría de productos.
+
+//resumen-productos-mejor-clasificados-categoria       # (product.template, product.category)
+//# Ofrece un resumen de los productos mejor clasificados dentro de cada categoría en el sistema.
+
+//informe-inventario-categoria                         # (product.template, stock.quant, product.category)
+//# Genera un informe del inventario de productos por categoría en el sistema.
+
+//dejar-valoraciones-reseñas-productos-comprados     # (product.template, rating.rating)
+//# Permite a los usuarios dejar valoraciones y reseñas para los productos que han comprado.
+
+//visualizacion-puntuaciones-reseñas-productos        # (product.template, rating.rating)
+//# Facilita la visualización de las puntuaciones y reseñas de los productos en el sistema.
+
+//informe-valoraciones-reseñas-producto               # (product.template, rating.rating)
+//# Genera un informe de las valoraciones y reseñas de los productos en el sistema.
+
+//resumen-productos-mejor-valorados                   # (product.template, rating.rating)
+//# Ofrece un resumen de los productos mejor valorados en el sistema, basado en las puntuaciones de los usuarios.

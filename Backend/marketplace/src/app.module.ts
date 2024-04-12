@@ -24,6 +24,9 @@ import { SaleOrderModule } from './Modulo_de_Ventas/sale_order/sale_order.module
 import { StockPickingModule } from './Modulo_de_Ventas/stock_picking/stock_picking.module';
 import { PaymentAcquirerModule } from './Modulo_de_Compras/payment_acquirer/payment_acquirer.module';
 import { SaleOrderLineModule } from './Modulo_de_Compras/sale-order-line/sale-order-line.module';
+import { StockQuantModule } from './Modulo_de_Categorias/stock_quant/stock_quant.module';
+import { RatingMixinModule } from './Modulo_de_Valoraciones/rating_mixin/rating_mixin.module';
+import { RatingRatingModule } from './Modulo_de_Valoraciones/rating_rating/rating_rating.module';
 @Module({
   imports: [
     ResUsersModule,
@@ -49,6 +52,9 @@ import { SaleOrderLineModule } from './Modulo_de_Compras/sale-order-line/sale-or
     StockPickingModule,
     PaymentAcquirerModule,
     SaleOrderLineModule,
+    StockQuantModule,
+    RatingMixinModule,
+    RatingRatingModule,
   ],
   controllers: [AppController],
   providers: [AppService],

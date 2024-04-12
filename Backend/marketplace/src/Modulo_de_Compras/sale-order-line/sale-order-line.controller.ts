@@ -48,3 +48,6 @@ export class SaleOrderLineController {
 
 //informe-ventas-categoria-productos                   # (sale.order.line, product.template, product.category)
 //# Genera un informe de las ventas realizadas por categoría de productos en el sistema.
+
+//analisis-tendencias-compra-categoria                 # (sale.order.line, product.template, product.category)
+//# Realiza un análisis de las tendencias de compra por categoría de productos.
