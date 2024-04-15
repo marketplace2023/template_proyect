@@ -37,6 +37,22 @@ import { StockPickingBatchModule } from './Modulo_de_Envios/stock_picking_batch/
 import { StockPickingPackageModule } from './Modulo_de_Envios/stock_picking_package/stock_picking_package.module';
 import { StockProductionLotModule } from './Modulo_de_Envios/stock_production_lot/stock_production_lot.module';
 import { StockQuantPackageModule } from './Modulo_de_Envios/stock_quant_package/stock_quant_package.module';
+import { MailActivityModule } from './Modulo_de_Mensajeria/mail_activity/mail_activity.module';
+import { MailAliasModule } from './Modulo_de_Mensajeria/mail_alias/mail_alias.module';
+import { MailChannelModule } from './Modulo_de_Mensajeria/mail_channel/mail_channel.module';
+import { MailChannelPartnerModule } from './Modulo_de_Mensajeria/mail_channel_partner/mail_channel_partner.module';
+import { MailComposeMessagesModule } from './Modulo_de_Mensajeria/mail_compose_messages/mail_compose_messages.module';
+import { MailFollowersModule } from './Modulo_de_Mensajeria/mail_followers/mail_followers.module';
+import { MailMassMailingModule } from './Modulo_de_Mensajeria/mail_mass_mailing/mail_mass_mailing.module';
+import { MailMassMailingContactsModule } from './Modulo_de_Mensajeria/mail_mass_mailing_contacts/mail_mass_mailing_contacts.module';
+import { MailMessageModule } from './Modulo_de_Mensajeria/mail_message/mail_message.module';
+import { MailMessageRelationModule } from './Modulo_de_Mensajeria/mail_message_relation/mail_message_relation.module';
+import { MailMessageSubtypeModule } from './Modulo_de_Mensajeria/mail_message_subtype/mail_message_subtype.module';
+import { MailNotificationModule } from './Modulo_de_Mensajeria/mail_notification/mail_notification.module';
+import { MailShortcodeModule } from './Modulo_de_Mensajeria/mail_shortcode/mail_shortcode.module';
+import { MailTemplateModule } from './Modulo_de_Mensajeria/mail_template/mail_template.module';
+import { MailTemplatePreviewModule } from './Modulo_de_Mensajeria/mail_template_preview/mail_template_preview.module';
+import { MailThreadModule } from './Modulo_de_Mensajeria/mail_thread/mail_thread.module';
 @Module({
   imports: [
     ResUsersModule,
@@ -75,6 +91,22 @@ import { StockQuantPackageModule } from './Modulo_de_Envios/stock_quant_package/
     StockPickingPackageModule,
     StockProductionLotModule,
     StockQuantPackageModule,
+    MailActivityModule,
+    MailAliasModule,
+    MailChannelModule,
+    MailChannelPartnerModule,
+    MailComposeMessagesModule,
+    MailFollowersModule,
+    MailMassMailingModule,
+    MailMassMailingContactsModule,
+    MailMessageModule,
+    MailMessageRelationModule,
+    MailMessageSubtypeModule,
+    MailNotificationModule,
+    MailShortcodeModule,
+    MailTemplateModule,
+    MailTemplatePreviewModule,
+    MailThreadModule,
   ],
   controllers: [AppController],
   providers: [AppService],
