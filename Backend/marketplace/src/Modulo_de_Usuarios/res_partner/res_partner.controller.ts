@@ -58,3 +58,12 @@ export class ResPartnerController {
 
 //analisis-datos-proveedores                                              # (res_partner)
 //# Proporciona análisis sobre los datos de los proveedores, como la distribución geográfica y el volumen de transacciones.
+
+//gestion-socios-comerciales                                                    # (public.res_partner)
+//# Gestiona los socios comerciales, como clientes y proveedores.
+
+//configuracion-socios-comerciales                                              # (public.res_partner)
+//# Configura los datos de los socios comerciales, como clientes y proveedores.
+
+//analisis-socios-comerciales                                                   # (public.res_partner)
+//# Realiza análisis sobre los socios comerciales, como clientes y proveedores.

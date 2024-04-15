@@ -77,6 +77,10 @@ import { SaleCouponTypeModule } from './Modulo_de_Cupones/sale_coupon_type/sale_
 import { SaleCouponUsageModule } from './Modulo_de_Cupones/sale_coupon_usage/sale_coupon_usage.module';
 import { SaleCouponUsageReportModule } from './Modulo_de_Cupones/sale_coupon_usage_report/sale_coupon_usage_report.module';
 import { SaleCouponValidationModule } from './Modulo_de_Cupones/sale_coupon_validation/sale_coupon_validation.module';
+import { IrActServerModule } from './Modulo_de_Favoritos/ir_act_server/ir_act_server.module';
+import { IrActWindowsModule } from './Modulo_de_Favoritos/ir_act_windows/ir_act_windows.module';
+import { IrModelModule } from './Modulo_de_Favoritos/ir_model/ir_model.module';
+import { IrUiMenuModule } from './Modulo_de_Favoritos/ir_ui_menu/ir_ui_menu.module';
 @Module({
   imports: [
     ResUsersModule,
@@ -156,6 +160,10 @@ import { SaleCouponValidationModule } from './Modulo_de_Cupones/sale_coupon_vali
     SaleCouponUsageModule,
     SaleCouponUsageReportModule,
     SaleCouponValidationModule,
+    IrActServerModule,
+    IrActWindowsModule,
+    IrModelModule,
+    IrUiMenuModule,
   ],
   controllers: [AppController],
   providers: [AppService],

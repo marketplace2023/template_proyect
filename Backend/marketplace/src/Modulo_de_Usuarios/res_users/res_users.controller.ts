@@ -47,3 +47,12 @@ export class ResUsersController {
 
 //analisis-patrones-compra-cliente               # (sale.order, res.users)
 //# Realiza un análisis de los patrones de compra de los clientes, utilizando datos de órdenes de venta y usuarios registrados.
+
+//gestion-preferencias-usuario                                                    # (public.res_users)
+//# Gestiona las preferencias de usuario, como configuraciones personalizadas.
+
+//configuracion-preferencias-usuario                                              # (public.res_users)
+//# Configura las preferencias de usuario, como ajustes personalizados.
+
+//analisis-preferencias-usuario                                                   # (public.res_users)
+//# Proporciona análisis sobre las preferencias de usuario, como las configuraciones personalizadas.

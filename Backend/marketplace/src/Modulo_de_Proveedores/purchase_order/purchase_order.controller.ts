@@ -51,3 +51,12 @@ export class PurchaseOrderController {
 
 //analisis-ordenes-compra                                                 # (purchase_order)
 //# Realiza análisis y reportes sobre las órdenes de compra, como el total de órdenes creadas y el monto total de compras.
+
+//gestion-ordenes-compra                                                     # (public.purchase_order)
+//# Gestiona las órdenes de compra realizadas por los usuarios.
+
+//configuracion-ordenes-compra                                               # (public.purchase_order)
+//# Configura los parámetros relacionados con las órdenes de compra en la aplicación.
+
+//analisis-ordenes-compra                                                    # (public.purchase_order)
+//# Proporciona análisis sobre las órdenes de compra realizadas por los usuarios.

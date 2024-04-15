@@ -46,3 +46,12 @@ export class ProductProductController {
 
 //gestion-variantes-producto                                                             # (product.product)
 //# Gestiona las variantes específicas de un producto definido en la plantilla, incluyendo información adicional como códigos de barras y referencias internas.
+
+//gestion-productos-favoritos                                               # (public.product_product)
+//# Gestiona los productos marcados como favoritos por los usuarios.
+
+//configuracion-productos                                                   # (public.product_product)
+//# Configura los productos disponibles en la aplicación.
+
+//analisis-productos-favoritos                                              # (public.product_product)
+//# Realiza análisis sobre los productos marcados como favoritos por los usuarios.
