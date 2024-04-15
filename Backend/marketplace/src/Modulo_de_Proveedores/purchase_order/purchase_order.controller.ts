@@ -60,3 +60,9 @@ export class PurchaseOrderController {
 
 //analisis-ordenes-compra                                                    # (public.purchase_order)
 //# Proporciona análisis sobre las órdenes de compra realizadas por los usuarios.
+
+//seguimiento-compras                                                        # (public.purchase_order)
+//# Realiza el seguimiento de las órdenes de compra realizadas.
+
+//seguimiento-compras                                                        # (public.purchase_order)
+//# Proporciona seguimiento y análisis sobre las órdenes de compra realizadas.

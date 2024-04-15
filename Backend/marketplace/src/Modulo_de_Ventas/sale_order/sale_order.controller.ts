@@ -90,3 +90,9 @@ export class SaleOrderController {
 
 //analisis-ordenes-venta                                                         # (public.sale_order)
 //# Proporciona análisis sobre las órdenes de venta realizadas por los usuarios.
+
+//registro-ordenes-venta                                                        # (public.sale_order)
+//# Registra las órdenes de venta realizadas por los clientes.
+
+//analisis-ventas                                                               # (public.sale_order)
+//# Proporciona análisis sobre las órdenes de venta realizadas por los clientes.
