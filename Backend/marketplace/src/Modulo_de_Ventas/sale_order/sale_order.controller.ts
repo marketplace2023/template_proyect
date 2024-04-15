@@ -96,3 +96,12 @@ export class SaleOrderController {
 
 //analisis-ventas                                                               # (public.sale_order)
 //# Proporciona análisis sobre las órdenes de venta realizadas por los clientes.
+
+//creacion-ordenes-venta                                                        # (public.sale_order)
+//# Proceso para crear nuevas órdenes de venta.
+
+//seguimiento-estado-ordenes                                                     # (public.sale_order)
+//# Seguimiento del estado de las órdenes de venta.
+
+//analisis-ordenes-venta                                                         # (public.sale_order)
+//# Análisis de las órdenes de venta realizadas.

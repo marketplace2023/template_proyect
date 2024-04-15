@@ -51,3 +51,12 @@ export class SaleOrderLineController {
 
 //analisis-tendencias-compra-categoria                 # (sale.order.line, product.template, product.category)
 //# Realiza un análisis de las tendencias de compra por categoría de productos.
+
+//detalle-items-ordenes                                                     # (public.sale_order_line)
+//# Detalle de los ítems incluidos en las órdenes de venta.
+
+//configuracion-lineas-ordenes                                              # (public.sale_order_line)
+//# Configuración de las líneas de las órdenes de venta.
+
+//analisis-lineas-ordenes                                                   # (public.sale_order_line)
+//# Análisis de las líneas de las órdenes de venta.
