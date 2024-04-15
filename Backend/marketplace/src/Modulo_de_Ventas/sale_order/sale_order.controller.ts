@@ -66,3 +66,12 @@ export class SaleOrderController {
 
 //analisis-patrones-compra-cliente               # (sale.order, res.users)
 //# Realiza un análisis de los patrones de compra de los clientes, utilizando datos de órdenes de venta y usuarios registrados.
+
+//aplicacion-automatica-promociones                # (sale.order, product.pricelist)
+//# Aplica automáticamente las promociones configuradas a las órdenes de venta durante el proceso de compra.
+
+//informe-efectividad-promociones                   # (sale.order, product.pricelist.item, product.pricelist)
+//# Genera un informe sobre la efectividad de las promociones en las ventas, utilizando datos de órdenes de venta y listas de precios.
+
+//analisis-ventas-impulsadas-promociones            # (sale.order, product.pricelist.item, product.pricelist)
+//# Realiza un análisis de las ventas impulsadas por las promociones, utilizando datos de órdenes de venta y listas de precios.

@@ -61,6 +61,7 @@ import { AccountPaymentGroupModule } from './Modulo_de_Pagos/account_payment_gro
 import { AccountPaymentMethodModule } from './Modulo_de_Pagos/account_payment_method/account_payment_method.module';
 import { AccountPaymentRegisterModule } from './Modulo_de_Pagos/account_payment_register/account_payment_register.module';
 import { AccountPaymentTermModule } from './Modulo_de_Pagos/account_payment_term/account_payment_term.module';
+import { ProductPricelistItemModule } from './Modulo_de_Promociones/product_pricelist_item/product_pricelist_item.module';
 @Module({
   imports: [
     ResUsersModule,
@@ -124,6 +125,7 @@ import { AccountPaymentTermModule } from './Modulo_de_Pagos/account_payment_term
     AccountPaymentMethodModule,
     AccountPaymentRegisterModule,
     AccountPaymentTermModule,
+    ProductPricelistItemModule,
   ],
   controllers: [AppController],
   providers: [AppService],
