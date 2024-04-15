@@ -49,3 +49,6 @@ export class StockPickingController {
 
 //operaciones-envio                                                                   # (stock.picking)
 //# Maneja las operaciones de envío, incluyendo detalles de productos y estados.
+
+//informe-estado-envios                                         # (stock.picking)
+//# Genera un informe del estado de los envíos.

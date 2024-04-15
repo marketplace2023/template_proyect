@@ -65,3 +65,6 @@ export class ProductCategoryController {
 
 //informe-inventario-categoria                         # (product.template, stock.quant, product.category)
 //# Genera un informe del inventario de productos por categoría en el sistema.
+
+//analisis-tendencias-compra-categoria                           # (sale.order, product.category)
+//# Realiza un análisis de las tendencias de compra por categoría de productos.

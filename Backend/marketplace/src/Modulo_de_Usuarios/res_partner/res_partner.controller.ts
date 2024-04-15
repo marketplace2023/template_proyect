@@ -46,3 +46,6 @@ export class ResPartnerController {
 
 //-- gestion-contactos-comerciales      # (res_partner)
 //res_partner: Puede ser utilizado para gestionar clientes, proveedores y otros contactos comerciales, lo que podría ser equiparable a los clientes en el contexto de beneficiosi.
+
+//analisis-patrones-compra-cliente                              # (sale.order, res.partner)
+//# Realiza un análisis de los patrones de compra del cliente.

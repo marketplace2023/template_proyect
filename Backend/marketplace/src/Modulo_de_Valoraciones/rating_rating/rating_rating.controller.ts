@@ -57,3 +57,6 @@ export class RatingRatingController {
 
 //resumen-productos-mejor-valorados                   # (product.template, rating.rating)
 //# Ofrece un resumen de los productos mejor valorados en el sistema, basado en las puntuaciones de los usuarios.
+
+//informe-valoraciones-reseñas-producto                         # (rating.rating)
+//# Presenta un informe de las valoraciones y reseñas de los productos.

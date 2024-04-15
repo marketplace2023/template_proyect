@@ -75,3 +75,9 @@ export class SaleOrderController {
 
 //analisis-ventas-impulsadas-promociones            # (sale.order, product.pricelist.item, product.pricelist)
 //# Realiza un análisis de las ventas impulsadas por las promociones, utilizando datos de órdenes de venta y listas de precios.
+
+//analisis-patrones-compra-cliente                              # (sale.order, res.partner)
+//# Realiza un análisis de los patrones de compra del cliente.
+
+//analisis-tendencias-compra-categoria                           # (sale.order, product.category)
+//# Realiza un análisis de las tendencias de compra por categoría de productos.

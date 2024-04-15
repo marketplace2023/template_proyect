@@ -45,3 +45,6 @@ export class IrModelAccesController {
 }
 //configuracion-permisos            # (ir.model.access)
 //ir.model.access: Define los permisos de acceso a otros modelos en la base de datos y se utiliza para controlar quién puede acceder y qué puede hacer en cada modelo, similar a la gestión de permisos en beneficiosi.
+
+//configuracion-acceso-informes-roles-usuario                  # (res.groups, ir.model.access)
+//# Configura el acceso a los informes según los roles de usuario.

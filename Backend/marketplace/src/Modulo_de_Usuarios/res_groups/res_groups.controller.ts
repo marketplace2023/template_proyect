@@ -47,3 +47,6 @@ export class ResGroupsController {
 //gestion-grupos-usuarios                    # (res_groups)
 
 //res_groups: Representa los grupos de usuarios y se utiliza para asignar permisos y roles a los usuarios.
+
+//configuracion-acceso-informes-roles-usuario                  # (res.groups, ir.model.access)
+//# Configura el acceso a los informes según los roles de usuario.

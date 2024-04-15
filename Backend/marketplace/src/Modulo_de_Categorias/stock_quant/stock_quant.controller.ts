@@ -45,3 +45,12 @@ export class StockQuantController {
 }
 //informe-inventario-categoria                         # (product.template, stock.quant, product.category)
 //# Genera un informe del inventario de productos por categoría en el sistema.
+
+//generacion-informes-ventas-ingresos-inventario            # (sale.report, account.move.line, stock.quant, etc.)
+//# Procesa los datos para generar informes relacionados con ventas, ingresos e inventario.
+
+//informe-inventario-productos                                  # (stock.quant)
+//# Genera un informe del inventario de productos disponibles en el sistema.
+
+//informe-inventario-productos                                  # (stock.quant)
+//# Genera un informe del inventario de productos disponibles en el sistema.
