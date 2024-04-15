@@ -49,3 +49,12 @@ export class ResPartnerController {
 
 //analisis-patrones-compra-cliente                              # (sale.order, res.partner)
 //# Realiza un análisis de los patrones de compra del cliente.
+
+//gestion-datos-proveedores                                             # (res_partner)
+//# Gestiona los datos de los proveedores, como nombre, dirección y contacto.
+
+//configuracion-datos-proveedores                                          # (res_partner)
+//# Configura los ajustes de los datos de los proveedores, como los campos personalizados y los formatos de dirección.
+
+//analisis-datos-proveedores                                              # (res_partner)
+//# Proporciona análisis sobre los datos de los proveedores, como la distribución geográfica y el volumen de transacciones.
