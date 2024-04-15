@@ -65,6 +65,18 @@ import { ProductPricelistItemModule } from './Modulo_de_Promociones/product_pric
 import { SaleReportModule } from './Modulo_de_Reportes/sale_report/sale_report.module';
 import { AccountMoveLineModule } from './Modulo_de_Reportes/account_move_line/account_move_line.module';
 import { PaymentTransactionModule } from './Modulo_de_Reportes/payment_transaction/payment_transaction.module';
+import { SaleCouponModule } from './Modulo_de_Cupones/sale_coupon/sale_coupon.module';
+import { SaleCouponBatchModule } from './Modulo_de_Cupones/sale_coupon_batch/sale_coupon_batch.module';
+import { SaleCouponConditionModule } from './Modulo_de_Cupones/sale_coupon_condition/sale_coupon_condition.module';
+import { SaleCouponHistoryModule } from './Modulo_de_Cupones/sale_coupon_history/sale_coupon_history.module';
+import { SaleCouponProgramModule } from './Modulo_de_Cupones/sale_coupon_program/sale_coupon_program.module';
+import { SaleCouponRewardModule } from './Modulo_de_Cupones/sale_coupon_reward/sale_coupon_reward.module';
+import { SaleCouponRuleModule } from './Modulo_de_Cupones/sale_coupon_rule/sale_coupon_rule.module';
+import { SaleCouponTemplateModule } from './Modulo_de_Cupones/sale_coupon_template/sale_coupon_template.module';
+import { SaleCouponTypeModule } from './Modulo_de_Cupones/sale_coupon_type/sale_coupon_type.module';
+import { SaleCouponUsageModule } from './Modulo_de_Cupones/sale_coupon_usage/sale_coupon_usage.module';
+import { SaleCouponUsageReportModule } from './Modulo_de_Cupones/sale_coupon_usage_report/sale_coupon_usage_report.module';
+import { SaleCouponValidationModule } from './Modulo_de_Cupones/sale_coupon_validation/sale_coupon_validation.module';
 @Module({
   imports: [
     ResUsersModule,
@@ -132,6 +144,18 @@ import { PaymentTransactionModule } from './Modulo_de_Reportes/payment_transacti
     SaleReportModule,
     AccountMoveLineModule,
     PaymentTransactionModule,
+    SaleCouponModule,
+    SaleCouponBatchModule,
+    SaleCouponConditionModule,
+    SaleCouponHistoryModule,
+    SaleCouponProgramModule,
+    SaleCouponRewardModule,
+    SaleCouponRuleModule,
+    SaleCouponTemplateModule,
+    SaleCouponTypeModule,
+    SaleCouponUsageModule,
+    SaleCouponUsageReportModule,
+    SaleCouponValidationModule,
   ],
   controllers: [AppController],
   providers: [AppService],
