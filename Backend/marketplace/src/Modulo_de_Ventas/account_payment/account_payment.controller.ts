@@ -46,3 +46,5 @@ export class AccountPaymentController {
 
 //analisis-ingresos-tipo-pago                     # (account.payment)
 //# Realiza un análisis de los ingresos según el tipo de pago utilizado en las órdenes de venta.
+//gestion-pagos                                                                 # (account_payment)
+//# Manejo de pagos recibidos y realizados, incluyendo el registro y la trazabilidad de los mismos.

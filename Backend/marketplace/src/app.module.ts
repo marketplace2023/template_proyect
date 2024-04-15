@@ -53,6 +53,14 @@ import { MailShortcodeModule } from './Modulo_de_Mensajeria/mail_shortcode/mail_
 import { MailTemplateModule } from './Modulo_de_Mensajeria/mail_template/mail_template.module';
 import { MailTemplatePreviewModule } from './Modulo_de_Mensajeria/mail_template_preview/mail_template_preview.module';
 import { MailThreadModule } from './Modulo_de_Mensajeria/mail_thread/mail_thread.module';
+import { AccountBankStatementModule } from './Modulo_de_Pagos/account_bank_statement/account_bank_statement.module';
+import { AccountBankStatementImportModule } from './Modulo_de_Pagos/account_bank_statement_import/account_bank_statement_import.module';
+import { AccountInvoiceModule } from './Modulo_de_Pagos/account_invoice/account_invoice.module';
+import { AccountPaymentAcquirerModule } from './Modulo_de_Pagos/account_payment_acquirer/account_payment_acquirer.module';
+import { AccountPaymentGroupModule } from './Modulo_de_Pagos/account_payment_group/account_payment_group.module';
+import { AccountPaymentMethodModule } from './Modulo_de_Pagos/account_payment_method/account_payment_method.module';
+import { AccountPaymentRegisterModule } from './Modulo_de_Pagos/account_payment_register/account_payment_register.module';
+import { AccountPaymentTermModule } from './Modulo_de_Pagos/account_payment_term/account_payment_term.module';
 @Module({
   imports: [
     ResUsersModule,
@@ -107,6 +115,15 @@ import { MailThreadModule } from './Modulo_de_Mensajeria/mail_thread/mail_thread
     MailTemplateModule,
     MailTemplatePreviewModule,
     MailThreadModule,
+    AccountBankStatementModule,
+    AccountBankStatementImportModule,
+    AccountInvoiceModule,
+    AccountPaymentAcquirerModule,
+    AccountPaymentGroupModule,
+    AccountPaymentGroupModule,
+    AccountPaymentMethodModule,
+    AccountPaymentRegisterModule,
+    AccountPaymentTermModule,
   ],
   controllers: [AppController],
   providers: [AppService],
