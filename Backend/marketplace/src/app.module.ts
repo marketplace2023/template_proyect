@@ -98,8 +98,19 @@ import { StockRuleModule } from './Modulo_de_Inventario/stock_rule/stock_rule.mo
 import { StockScrapModule } from './Modulo_de_Inventario/stock_scrap/stock_scrap.module';
 import { StockWarehouseModule } from './Modulo_de_Inventario/stock_warehouse/stock_warehouse.module';
 import { StockWarehouseOrderpointModule } from './Modulo_de_Inventario/stock_warehouse_orderpoint/stock_warehouse_orderpoint.module';
+import { TypeOrmModule } from '@nestjs/typeorm';
 @Module({
   imports: [
+    TypeOrmModule.forRoot({
+      type: 'mysql',
+      host: 'localhost',
+      port: 3306,
+      username: 'root',
+      password: '',
+      database: 'marketplace_database',
+      entities: [],
+      synchronize: true,
+    }),
     ResUsersModule,
     ResPartnerModule,
     ResGroupsModule,
