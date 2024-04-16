@@ -92,6 +92,12 @@ import { SaleOrderOptionModule } from './Modulo_de_Ordenes_Venta/sale_order_opti
 import { SaleOrderTemplateModule } from './Modulo_de_Ordenes_Venta/sale_order_template/sale_order_template.module';
 import { SaleOrderTemplateOptionModule } from './Modulo_de_Ordenes_Venta/sale_order_template_option/sale_order_template_option.module';
 import { AccountInvoiceTransactionRelModule } from './Modulo_de_Facturas/account_invoice_transaction_rel/account_invoice_transaction_rel.module';
+import { StockLocationModule } from './Modulo_de_Inventario/stock_location/stock_location.module';
+import { StockPackageTypeModule } from './Modulo_de_Inventario/stock_package_type/stock_package_type.module';
+import { StockRuleModule } from './Modulo_de_Inventario/stock_rule/stock_rule.module';
+import { StockScrapModule } from './Modulo_de_Inventario/stock_scrap/stock_scrap.module';
+import { StockWarehouseModule } from './Modulo_de_Inventario/stock_warehouse/stock_warehouse.module';
+import { StockWarehouseOrderpointModule } from './Modulo_de_Inventario/stock_warehouse_orderpoint/stock_warehouse_orderpoint.module';
 @Module({
   imports: [
     ResUsersModule,
@@ -187,6 +193,12 @@ import { AccountInvoiceTransactionRelModule } from './Modulo_de_Facturas/account
     SaleOrderTemplateOptionModule,
     AccountInvoiceTransactionRelModule,
     AccountMoveLineModule,
+    StockLocationModule,
+    StockPackageTypeModule,
+    StockRuleModule,
+    StockScrapModule,
+    StockWarehouseModule,
+    StockWarehouseOrderpointModule,
   ],
   controllers: [AppController],
   providers: [AppService],

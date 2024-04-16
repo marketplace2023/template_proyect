@@ -45,3 +45,18 @@ export class StockMoveController {
 }
 //movimientos-productos                                                                # (stock.move)
 //# Gestiona movimientos individuales de productos dentro de una operación de envío.
+
+//registro-movimientos-entrada                                                   # (public.stock_move)
+//# Registro de movimientos de entrada de productos en el almacén.
+
+//registro-movimientos-salida                                                    # (public.stock_move)
+//# Registro de movimientos de salida de productos del almacén.
+
+//gestion-transferencias-internas                                                # (public.stock_move)
+//# Gestión de transferencias internas de productos entre ubicaciones del almacén.
+
+//configuracion-movimientos                                                     # (public.stock_move)
+//# Configuración de movimientos de productos en el almacén.
+
+//reporte-movimientos-inventario                                                # (public.stock_move)
+//# Reporte de movimientos de inventario en el almacén.

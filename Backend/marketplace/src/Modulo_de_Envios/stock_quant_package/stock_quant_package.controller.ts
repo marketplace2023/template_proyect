@@ -50,3 +50,18 @@ export class StockQuantPackageController {
 }
 //paquetes-fisicos                                                                 # (stock.quant.package)
 //# Representa los paquetes físicos que contienen los productos enviados.
+
+//gestion-paquetes                                                     # (public.stock_quant_package)
+//# Gestión de paquetes de productos en el almacén.
+
+//seguimiento-paquetes                                                 # (public.stock_quant_package)
+//# Seguimiento de paquetes de productos en el almacén.
+
+//ajustes-paquetes                                                      # (public.stock_quant_package)
+//# Ajustes en los paquetes de productos en el almacén.
+
+//configuracion-paquetes                                                # (public.stock_quant_package)
+//# Configuración de paquetes de productos en el almacén.
+
+//reporte-paquetes                                                      # (public.stock_quant_package)
+//# Reporte de paquetes de productos en el almacén.

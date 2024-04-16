@@ -54,3 +54,18 @@ export class StockQuantController {
 
 //informe-inventario-productos                                  # (stock.quant)
 //# Genera un informe del inventario de productos disponibles en el sistema.
+
+//actualizacion-cantidad-disponible                                             # (public.stock_quant)
+//# Actualización de la cantidad disponible de productos en el almacén.
+
+//verificacion-disponibilidad-productos                                         # (public.stock_quant)
+//# Verificación de la disponibilidad de productos en el almacén.
+
+//ajustes-inventario                                                            # (public.stock_quant)
+//# Ajustes en el inventario de productos en el almacén.
+
+//configuracion-cantidad                                                       # (public.stock_quant)
+//# Configuración de la cantidad de productos en el almacén.
+
+//reporte-cantidad-disponible                                                  # (public.stock_quant)
+//# Reporte de la cantidad disponible de productos en el almacén.
