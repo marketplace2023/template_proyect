@@ -105,3 +105,36 @@ export class SaleOrderController {
 
 //analisis-ordenes-venta                                                         # (public.sale_order)
 //# Análisis de las órdenes de venta realizadas.
+
+//creacion-cotizaciones                    # (public.sale_order)
+//# Proceso para crear nuevas cotizaciones de venta.
+
+//aprobacion-cotizaciones                  # (public.sale_order)
+//# Proceso de aprobación de cotizaciones de venta.
+
+//conversion-orden-venta                   # (public.sale_order)
+//# Conversión de cotizaciones en órdenes de venta.
+
+//seguimiento-estado                       # (public.sale_order)
+//# Seguimiento del estado de las cotizaciones y órdenes de venta.
+
+//configuracion-terminos-venta              # (public.sale_order)
+//# Configuración de los términos de venta en cotizaciones y órdenes de venta.
+
+//personalizacion-campos                    # (public.sale_order)
+//# Personalización de campos en cotizaciones y órdenes de venta.
+
+//configuracion-flujos-aprobacion           # (public.sale_order)
+//# Configuración de flujos de aprobación en cotizaciones y órdenes de venta.
+
+//automatizacion-seguimiento                # (public.sale_order)
+//# Automatización del seguimiento en cotizaciones y órdenes de venta.
+
+//configuracion-descuentos-promociones      # (public.sale_order)
+//# Configuración de descuentos y promociones en cotizaciones y órdenes de venta.
+
+//reporte-cotizaciones           # (public.sale_order)
+//# Reporte de cotizaciones realizadas.
+
+//analisis-conversion-ventas     # (public.sale_order)
+//# Análisis de la conversión de cotizaciones en órdenes de venta.

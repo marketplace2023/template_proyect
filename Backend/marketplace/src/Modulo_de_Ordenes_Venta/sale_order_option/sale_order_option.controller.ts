@@ -50,3 +50,15 @@ export class SaleOrderOptionController {
 
 //analisis-opciones-adicionales                                           # (public.sale_order_option)
 //# Análisis de las opciones adicionales en las órdenes de venta.
+
+//oferta-opciones-adicionales              # (public.sale_order_option)
+//# Oferta de opciones adicionales en cotizaciones y órdenes de venta.
+
+//seleccion-opciones-cliente               # (public.sale_order_option)
+//# Selección de opciones por parte del cliente en cotizaciones y órdenes de venta.
+
+//reporte-opciones-adicionales   # (public.sale_order_option)
+//# Reporte de opciones adicionales en cotizaciones y órdenes de venta.
+
+//rentabilidad-opciones          # (public.sale_order_option)
+//# Análisis de la rentabilidad de las opciones en cotizaciones y órdenes de venta.

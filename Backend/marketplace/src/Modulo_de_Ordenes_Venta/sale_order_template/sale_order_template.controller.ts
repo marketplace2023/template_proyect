@@ -59,3 +59,21 @@ export class SaleOrderTemplateController {
 
 //personalizacion-plantillas                                            # (public.sale_order_template)
 //# Análisis de la personalización de las plantillas de órdenes de venta.
+
+//creacion-plantillas                      # (public.sale_order_template)
+//# Creación de plantillas para cotizaciones y órdenes de venta.
+
+//uso-plantillas-cotizaciones              # (public.sale_order_template)
+//# Uso de plantillas predefinidas en cotizaciones y órdenes de venta.
+
+//diseño-estructura-plantilla               # (public.sale_order_template)
+//# Diseño y estructura de las plantillas para cotizaciones y órdenes de venta.
+
+//configuracion-elementos-predeterminados   # (public.sale_order_template)
+//# Configuración de elementos predeterminados en las plantillas para cotizaciones y órdenes de venta.
+
+//uso-plantillas-cotizacion      # (public.sale_order_template)
+//# Reporte del uso de plantillas en cotizaciones y órdenes de venta.
+
+//eficiencia-plantillas-ventas   # (public.sale_order_template)
+//# Análisis de la eficiencia en el uso de plantillas para cotizaciones y órdenes de venta.

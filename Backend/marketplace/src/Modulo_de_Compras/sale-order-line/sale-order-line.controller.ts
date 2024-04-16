@@ -60,3 +60,21 @@ export class SaleOrderLineController {
 
 //analisis-lineas-ordenes                                                   # (public.sale_order_line)
 //# Análisis de las líneas de las órdenes de venta.
+
+//agregacion-items-cotizacion              # (public.sale_order_line)
+//# Agregación de ítems a las cotizaciones.
+
+//actualizacion-lineas-cotizacion          # (public.sale_order_line)
+//# Actualización de líneas de cotización en órdenes de venta.
+
+//personalizacion-campos-linea              # (public.sale_order_line)
+//# Personalización de campos en las líneas de cotización y órdenes de venta.
+
+//configuracion-precios                     # (public.sale_order_line)
+//# Configuración de precios en las líneas de cotización y órdenes de venta.
+
+//detalle-items-cotizacion       # (public.sale_order_line)
+//# Detalle de los ítems de cotización en órdenes de venta.
+
+//analisis-ventas-producto       # (public.sale_order_line)
+//# Análisis de las ventas por producto en órdenes de venta.

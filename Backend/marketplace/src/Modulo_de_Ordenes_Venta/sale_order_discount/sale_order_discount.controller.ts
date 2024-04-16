@@ -56,3 +56,12 @@ export class SaleOrderDiscountController {
 
 //impacto-descuentos-ventas                                            # (public.sale_order_discount)
 //# Impacto de los descuentos en las ventas.
+
+//aplicacion-descuentos                    # (public.sale_order_discount)
+//# Aplicación de descuentos en cotizaciones y órdenes de venta.
+
+//actualizacion-descuentos                 # (public.sale_order_discount)
+//# Actualización de descuentos en cotizaciones y órdenes de venta.
+
+//configuracion-reglas-descuento            # (public.sale_order_discount)
+//# Configuración de reglas de descuento en cotizaciones y órdenes de venta.
