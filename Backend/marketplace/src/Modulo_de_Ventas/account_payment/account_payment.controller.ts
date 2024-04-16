@@ -46,5 +46,27 @@ export class AccountPaymentController {
 
 //analisis-ingresos-tipo-pago                     # (account.payment)
 //# Realiza un análisis de los ingresos según el tipo de pago utilizado en las órdenes de venta.
+
 //gestion-pagos                                                                 # (account_payment)
 //# Manejo de pagos recibidos y realizados, incluyendo el registro y la trazabilidad de los mismos.
+
+//seguimiento-pagos                       # (public.account_payment)
+//# Seguimiento de pagos realizados.
+
+//conciliacion-financiera                  # (public.account_payment)
+//# Proceso de conciliación financiera.
+
+//ajustes-pagos                            # (public.account_payment)
+//# Ajustes en los pagos realizados.
+
+//configuracion-metodos-pago               # (public.account_payment)
+//# Configuración de métodos de pago.
+
+//personalizacion-formatos-pago            # (public.account_payment)
+//# Personalización de formatos de pago.
+
+//seguimiento-estado-pagos                # (public.account_payment)
+//# Seguimiento del estado de los pagos.
+
+//analisis-flujo-caja                     # (public.account_payment)
+//# Análisis del flujo de caja.

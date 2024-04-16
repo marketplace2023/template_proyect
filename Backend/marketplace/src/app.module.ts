@@ -91,6 +91,7 @@ import { SaleOrderLineInvoiceRelModule } from './Modulo_de_Ordenes_Venta/sale_or
 import { SaleOrderOptionModule } from './Modulo_de_Ordenes_Venta/sale_order_option/sale_order_option.module';
 import { SaleOrderTemplateModule } from './Modulo_de_Ordenes_Venta/sale_order_template/sale_order_template.module';
 import { SaleOrderTemplateOptionModule } from './Modulo_de_Ordenes_Venta/sale_order_template_option/sale_order_template_option.module';
+import { AccountInvoiceTransactionRelModule } from './Modulo_de_Facturas/account_invoice_transaction_rel/account_invoice_transaction_rel.module';
 @Module({
   imports: [
     ResUsersModule,
@@ -184,6 +185,8 @@ import { SaleOrderTemplateOptionModule } from './Modulo_de_Ordenes_Venta/sale_or
     SaleOrderOptionModule,
     SaleOrderTemplateModule,
     SaleOrderTemplateOptionModule,
+    AccountInvoiceTransactionRelModule,
+    AccountMoveLineModule,
   ],
   controllers: [AppController],
   providers: [AppService],

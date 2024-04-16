@@ -51,3 +51,21 @@ export class AccountMoveController {
 
 //analisis-transacciones-financieras                                               # (account_move)
 //# Informes sobre las operaciones contables y su impacto en la situación financiera.
+
+//registro-asientos-contables              # (public.account_move)
+//# Registro de asientos contables.
+
+//seguimiento-impacto-financiero           # (public.account_move)
+//# Seguimiento del impacto financiero.
+
+//ajustes-registro-asientos-contables      # (public.account_move)
+//# Ajustes en el registro de asientos contables.
+
+//configuracion-cuentas-contables          # (public.account_move)
+//# Configuración de cuentas contables.
+
+//reporte-asientos-contables              # (public.account_move)
+//# Reporte de asientos contables.
+
+//analisis-impacto-financiero             # (public.account_move)
+//# Análisis del impacto financiero.

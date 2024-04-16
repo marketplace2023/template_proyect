@@ -45,5 +45,12 @@ export class AccountJournalController {
 }
 //configuracion-opciones-facturacion              # (account.journal)
 //# Configura las opciones de facturación disponibles para las órdenes de venta.
+
 // definicion-diarios-contables                                                    # (account_journal)
 //# Configuración de los diarios para categorizar las transacciones financieras.
+
+//configuracion-diarios-contables          # (public.account_journal)
+//# Configuración de diarios contables.
+
+//personalizacion-detalles-transacciones   # (public.account_journal)
+//# Personalización de los detalles de las transacciones.
