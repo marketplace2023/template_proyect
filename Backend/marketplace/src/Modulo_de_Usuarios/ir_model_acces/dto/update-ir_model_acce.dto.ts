@@ -1,4 +1,3 @@
-import { PartialType } from '@nestjs/mapped-types';
-import { CreateIrModelAcceDto } from './create-ir_model_acce.dto';
+import { CreateIrModelAccessDto } from "./create-ir_model_acce.dto";
 
-export class UpdateIrModelAcceDto extends PartialType(CreateIrModelAcceDto) {}
+export class UpdateIrModelAccessDto extends CreateIrModelAccessDto {}
