@@ -5,11 +5,14 @@
 * [Módulo de Usuarios (User)](https://github.com/marketplace2023/modulo_de_usuarios/blob/main/README.md)  
 
 * [Módulo de  Productos](https://github.com/marketplace2023/modulo_de_productos/blob/main/README.md)                                                            
+
 * [Módulo de Ventas (Orders)](https://github.com/marketplace2023/modulo_de_ventas/blob/main/README.md)
 
 * [Módulo de Compras](https://github.com/marketplace2023/modulo_de_compras/blob/main/README.md)                                                                 
+
 * [Módulo de Categorías (Categories)](https://github.com/marketplace2023/modulo_de_categorias/blob/main/README.md)                                      
-## 6. Módulo de Valoraciones (Ratings)            
+
+* [Módulo de Valoraciones (Ratings)](https://github.com/marketplace2023/modulo_de_valoraciones/blob/main/README.md)            
 
 ## 7. Módulo de Envíos (Shipments)              
 
