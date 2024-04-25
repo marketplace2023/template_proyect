@@ -1,41 +1,41 @@
 
 
-# 1.  Módulo de Usuarios (User)  
+## 1.  Módulo de Usuarios (User)  
 
-# 2.  Módulo de  Productos                                                            
+## 2.  Módulo de  Productos                                                            
 
-# 3.  Módulo de Ventas (Orders)
+## 3.  Módulo de Ventas (Orders)
 
-# 4.  Módulo de Compras                                                                 
+## 4.  Módulo de Compras                                                                 
 
-# 5. Módulo de Categorías (Categories)                                      
+## 5. Módulo de Categorías (Categories)                                      
 
-# 6. Módulo de Valoraciones (Ratings)            
+## 6. Módulo de Valoraciones (Ratings)            
 
-# 7. Módulo de Envíos (Shipments)              
+## 7. Módulo de Envíos (Shipments)              
 
-# 8. Módulo de Mensajería (Messaging)                                              
+## 8. Módulo de Mensajería (Messaging)                                              
 
-# 9. Módulo de Pagos (Payments)                                                 
+## 9. Módulo de Pagos (Payments)                                                 
 
-# 10. Módulo de Vendedores (Seller Ratings)    
+## 10. Módulo de Vendedores (Seller Ratings)    
 
-# 11. Módulo de Promociones (Promotions)       
+## 11. Módulo de Promociones (Promotions)       
 
-# 12. Módulo de Reportes (Reports)    
+## 12. Módulo de Reportes (Reports)    
 
-# 13. Módulo de Cupones de Descuento (Discount Coupons)  
+## 13. Módulo de Cupones de Descuento (Discount Coupons)  
 
-# 14. Módulo de Proveedores (Shops)       
+## 14. Módulo de Proveedores (Shops)       
 
-# 15. Módulo de Favoritos (Favorites)          
+## 15. Módulo de Favoritos (Favorites)          
 
-# 16. Módulo de  CRM  
+## 16. Módulo de  CRM  
 
-# 17. Módulo de  Órdenes de venta 
+## 17. Módulo de  Órdenes de venta 
 
-# 18. Módulo de  Facturas    
+## 18. Módulo de  Facturas    
 
-# 19. Módulo de  Inventario 
+## 19. Módulo de  Inventario 
 
-# 20. Módulo de Cotizaciones  
+## 20. Módulo de Cotizaciones  
