@@ -24,7 +24,7 @@
 
 * [Módulo de Vendedores (Seller Ratings)](https://github.com/marketplace2023/modulo_de_vendedores/blob/main/README.md)    
 
-## 11. Módulo de Promociones (Promotions)       
+* [Módulo de Promociones (Promotions)](https://github.com/marketplace2023/modulo_de_promociones/blob/main/README.md)       
 
 ## 12. Módulo de Reportes (Reports)    
 
