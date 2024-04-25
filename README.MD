@@ -5,7 +5,7 @@
 * [Módulo de Usuarios (User)](https://github.com/marketplace2023/modulo_de_usuarios/blob/main/README.md)  
 
 * [Módulo de  Productos](https://github.com/marketplace2023/modulo_de_productos/blob/main/README.md)                                                            
-## 3.  Módulo de Ventas (Orders)
+* [Módulo de Ventas (Orders)](https://github.com/marketplace2023/modulo_de_ventas/blob/main/README.md)
 
 ## 4.  Módulo de Compras                                                                 
 
