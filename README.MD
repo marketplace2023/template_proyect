@@ -18,7 +18,7 @@
 
 * [Módulo de Envíos (Shipments)](https://github.com/marketplace2023/modulo_de_envios/blob/main/README.md)              
 
-## 8. Módulo de Mensajería (Messaging)                                              
+* [Módulo de Mensajería (Messaging)](https://github.com/marketplace2023/modulo_de_mensajeria/blob/main/README.md)                                              
 
 ## 9. Módulo de Pagos (Payments)                                                 
 
