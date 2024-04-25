@@ -4,7 +4,7 @@
 
 * [Módulo de Usuarios (User)](https://github.com/marketplace2023/modulo_de_usuarios/blob/main/README.md)  
 
-![IMAGEN](https://imgur.com/7LeKKCB)
+![IMAGEN 1](https://imgur.com/7LeKKCB) ![IMAGEN 1](https://imgur.com/7LeKKCB) ![IMAGEN 1](https://imgur.com/7LeKKCB) ![IMAGEN 1](https://imgur.com/7LeKKCB)
 
 * [Módulo de  Productos](https://github.com/marketplace2023/modulo_de_productos/blob/main/README.md)                                                            
 
