@@ -20,7 +20,7 @@
 
 * [Módulo de Mensajería (Messaging)](https://github.com/marketplace2023/modulo_de_mensajeria/blob/main/README.md)                                              
 
-## 9. Módulo de Pagos (Payments)                                                 
+* [Módulo de Pagos (Payments)](https://github.com/marketplace2023/modulo_de_pagos/blob/main/README.md)                                                 
 
 ## 10. Módulo de Vendedores (Seller Ratings)    
 
