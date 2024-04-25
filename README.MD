@@ -3,6 +3,7 @@
 # Modelos Fronted 
 
 ## 1.  * [Módulo de Usuarios (User)].(https://github.com/marketplace2023/modulo_de_usuarios/blob/main/README.md)  
+* [TypeScript ](https://github.com/Tecsoess/Typescript/wiki)
 
 ## 2.  Módulo de  Productos                                                            
 
