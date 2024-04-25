@@ -16,7 +16,7 @@
 
 * [Módulo de Valoraciones (Ratings)](https://github.com/marketplace2023/modulo_de_valoraciones/blob/main/README.md)            
 
-## 7. Módulo de Envíos (Shipments)              
+* [Módulo de Envíos (Shipments)](https://github.com/marketplace2023/modulo_de_envios/blob/main/README.md)              
 
 ## 8. Módulo de Mensajería (Messaging)                                              
 
