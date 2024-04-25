@@ -4,7 +4,7 @@
 
 * [Módulo de Usuarios (User)](https://github.com/marketplace2023/modulo_de_usuarios/blob/main/README.md)  
 
-![IMAGEN 1](https://ibb.co/Synwm0r) ![IMAGEN 1](https://ibb.co/vQ8RMzQ) ![IMAGEN 1](https://ibb.co/yqR6L0S) ![IMAGEN 1](https://ibb.co/4WWBv0L)
+![IMAGEN](https://ibb.co/Synwm0r) ![IMAGEN](https://ibb.co/vQ8RMzQ) ![IMAGEN](https://ibb.co/yqR6L0S) ![IMAGEN](https://ibb.co/4WWBv0L)
 
 * [Módulo de  Productos](https://github.com/marketplace2023/modulo_de_productos/blob/main/README.md)                                                            
 
