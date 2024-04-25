@@ -4,6 +4,8 @@
 
 * [Módulo de Usuarios (User)](https://github.com/marketplace2023/modulo_de_usuarios/blob/main/README.md)  
 
+![IMAGEN1] (https://imgur.com/7LeKKCB)
+
 * [Módulo de  Productos](https://github.com/marketplace2023/modulo_de_productos/blob/main/README.md)                                                            
 
 * [Módulo de Ventas (Orders)](https://github.com/marketplace2023/modulo_de_ventas/blob/main/README.md)
