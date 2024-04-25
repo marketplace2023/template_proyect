@@ -8,8 +8,7 @@
 * [Módulo de Ventas (Orders)](https://github.com/marketplace2023/modulo_de_ventas/blob/main/README.md)
 
 * [Módulo de Compras](https://github.com/marketplace2023/modulo_de_compras/blob/main/README.md)                                                                 
-## 5. Módulo de Categorías (Categories)                                      
-
+* [Módulo de Categorías (Categories)](https://github.com/marketplace2023/modulo_de_categorias/blob/main/README.md)                                      
 ## 6. Módulo de Valoraciones (Ratings)            
 
 ## 7. Módulo de Envíos (Shipments)              
