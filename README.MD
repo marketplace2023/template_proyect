@@ -22,7 +22,7 @@
 
 * [Módulo de Pagos (Payments)](https://github.com/marketplace2023/modulo_de_pagos/blob/main/README.md)                                                 
 
-## 10. Módulo de Vendedores (Seller Ratings)    
+* [Módulo de Vendedores (Seller Ratings)](https://github.com/marketplace2023/modulo_de_vendedores/blob/main/README.md)    
 
 ## 11. Módulo de Promociones (Promotions)       
 
