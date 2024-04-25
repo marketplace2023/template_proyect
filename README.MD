@@ -4,7 +4,7 @@
 
 * [Módulo de Usuarios (User)](https://github.com/marketplace2023/modulo_de_usuarios/blob/main/README.md)  
 
-![IMAGEN](https://ibb.co/Synwm0r) ![IMAGEN](https://ibb.co/vQ8RMzQ) ![IMAGEN](https://ibb.co/yqR6L0S) ![IMAGEN](https://ibb.co/4WWBv0L)
+![IMAGEN](https://i.ibb.co/Jt7jp2Q/Whats-App-Image-2024-04-25-at-2-49-11-PM.jpg) ![IMAGEN](https://i.ibb.co/GtjNrPt/Whats-App-Image-2024-04-25-at-2-49-10-PM-1.jpg) ![IMAGEN](https://i.ibb.co/tDhqyBX/Whats-App-Image-2024-04-25-at-2-49-11-PM-1.jpg) ![IMAGEN](https://i.ibb.co/F66GZd1/Whats-App-Image-2024-04-25-at-2-49-10-PM.jpg)
 
 * [Módulo de  Productos](https://github.com/marketplace2023/modulo_de_productos/blob/main/README.md)                                                            
 
