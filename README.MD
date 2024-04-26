@@ -42,7 +42,7 @@
 
 * [19. Módulo de  Inventario](https://github.com/marketplace2023/modulo_de_inventario/blob/main/README.md) 
 
-## 20. Módulo de Cotizaciones  
+* [20. Módulo de Cotizaciones](https://github.com/marketplace2023/modulo_de_cotizaciones/blob/main/README.md)  
 
 
 # Estructura del Proyecto del Matrketplace (Modulos)
