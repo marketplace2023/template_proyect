@@ -26,7 +26,7 @@
 
 * [Módulo de Promociones (Promotions)](https://github.com/marketplace2023/modulo_de_promociones/blob/main/README.md)       
 
-## 12. Módulo de Reportes (Reports)    
+* [Módulo de Reportes (Reports)](https://github.com/marketplace2023/modulo_de_reportes/blob/main/README.md)    
 
 ## 13. Módulo de Cupones de Descuento (Discount Coupons)  
 
