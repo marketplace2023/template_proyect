@@ -32,7 +32,7 @@
 
 * [Módulo de Proveedores (Shops)](https://github.com/marketplace2023/modulo_de_proveedores/blob/main/README.md)       
 
-## 15. Módulo de Favoritos (Favorites)          
+* [Módulo de Favoritos (Favorites)](https://github.com/marketplace2023/modulo_de_favoritos/blob/main/README.md)          
 
 ## 16. Módulo de  CRM  
 
