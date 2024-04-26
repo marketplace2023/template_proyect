@@ -34,7 +34,7 @@
 
 * [Módulo de Favoritos (Favorites)](https://github.com/marketplace2023/modulo_de_favoritos/blob/main/README.md)          
 
-## 16. Módulo de  CRM  
+* [Módulo de  CRM](https://github.com/marketplace2023/modulo_de_CRM/blob/main/README.md)  
 
 ## 17. Módulo de  Órdenes de venta 
 
