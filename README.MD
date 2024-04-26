@@ -36,7 +36,7 @@
 
 * [Módulo de  CRM](https://github.com/marketplace2023/modulo_de_CRM/blob/main/README.md)  
 
-## 17. Módulo de  Órdenes de venta 
+* [Módulo de  Órdenes de venta](https://github.com/marketplace2023/modulo_de_ordenes_de_venta/blob/main/README.md) 
 
 ## 18. Módulo de  Facturas    
 
