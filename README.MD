@@ -38,7 +38,7 @@
 
 * [Módulo de  Órdenes de venta](https://github.com/marketplace2023/modulo_de_ordenes_de_venta/blob/main/README.md) 
 
-## 18. Módulo de  Facturas    
+* [18. Módulo de  Facturas](https://github.com/marketplace2023/modulo_de_facturas/blob/main/README.md)    
 
 ## 19. Módulo de  Inventario 
 
