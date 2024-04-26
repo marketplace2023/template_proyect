@@ -30,7 +30,7 @@
 
 * [Módulo de Cupones de Descuento (Discount Coupons)](https://github.com/marketplace2023/modulo_de_cupones/blob/main/README.md)  
 
-## 14. Módulo de Proveedores (Shops)       
+* [Módulo de Proveedores (Shops)](https://github.com/marketplace2023/modulo_de_proveedores/blob/main/README.md)       
 
 ## 15. Módulo de Favoritos (Favorites)          
 
