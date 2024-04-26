@@ -40,7 +40,7 @@
 
 * [18. Módulo de  Facturas](https://github.com/marketplace2023/modulo_de_facturas/blob/main/README.md)    
 
-## 19. Módulo de  Inventario 
+* [19. Módulo de  Inventario](https://github.com/marketplace2023/modulo_de_inventario/blob/main/README.md) 
 
 ## 20. Módulo de Cotizaciones  
 
